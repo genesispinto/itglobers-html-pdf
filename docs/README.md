@@ -1,6 +1,7 @@
 <h1 align="center"> Visualizador de PDF</h1>
 
 Muestra un archivo PDF 
+![pdf-reader](https://user-images.githubusercontent.com/95322919/197269057-268ad49b-29d2-4523-98a0-9a8c3b344df7.png)
 
 ____________
 ## :hammer:Configuración del proyecto
